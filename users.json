@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Elliot",
+            "type": "Reader",
+            "Age": 23,
+            "social": {
+                "facebook": "https://facebook.com",
+                "twitter": "https://twitter.com"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Fraser",
+            "type": "Author",
+            "Age": 17,
+            "social": {
+                "facebook": "https://facebook.com",
+                "twitter": "https://twitter.com"
+            }
+        }
+    ]
+}
